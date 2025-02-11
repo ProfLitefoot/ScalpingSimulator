@@ -57,4 +57,4 @@ st.pyplot(fig)
 
 # Refresh the page periodically to simulate real-time updates
 time.sleep(1)
-st.experimental_rerun()
+st.rerun()
